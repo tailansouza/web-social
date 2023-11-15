@@ -28,3 +28,10 @@ section#telefone{
     height: 627px;
   
 }
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 21px;
+    height: 471px;
+    width: 270px; 
+}

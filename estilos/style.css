@@ -35,3 +35,21 @@ iframe#tela{
     height: 471px;
     width: 270px; 
 }
+section#redes{
+    text-align:right;
+    
+}
+ section#redes img:hover{
+ transform: translate(2px, 1px) ;
+  box-shadow: 1px 2px 7px rgb(160, 160, 159);
+  transition: 0.5s;
+
+
+    
+}
+section#redes img{
+    width: 40px;
+    border-radius: 50%;
+    margin: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.688);
+}
